@@ -1,1 +1,1 @@
-Track-Jobのハッカソンでのgithubの使い方講座で活用したもの
+Track-Jobのハッカソンでのgithubの使い方講座で使用したフォルダ
